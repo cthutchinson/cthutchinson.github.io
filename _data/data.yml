@@ -32,7 +32,7 @@ sidebar:
       - item: Data Science
         link:
 
-      - item: Statistics
+      - item: Bayesian Statistics
         link:
 
       - item: Entrepreneurship
@@ -43,7 +43,7 @@ career-profile:
     summary: |
       Physics BSc graduate with internship experience in software development and data      science.
 education:
-    - degree: Physics BSc
+    - degree: Physics BSc (First Class Honors)
       university: King's College London
       time: 2015 - 2019
       details: |
@@ -121,25 +121,12 @@ projects:
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: How Rankings Go Wrong: Structural Bias in Common Ranking Systems Viewed as Complex Systems
+        link: "https://static1.squarespace.com/static/5b68a4e4a2772c2a206180a1/t/5cd470fdc830253030167665/1557426435054/book_final_1.pdf"
+        authors: Grim, P., Jenuwine, N., Stolove, J., Apaza, A., vanWingen, H., Prasad, J., Knoblock, P., Hutchinson, C., Li, C., Fitzpatrick, K., Xu, C., Ming, C.
+        conference: International Conference on Complex Systems, 2018
+                    Northeast Regional Conference on Complex Systems, 2018
 
 skills:
     title: Skills &amp; Proficiency
