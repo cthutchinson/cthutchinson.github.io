@@ -96,9 +96,6 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-scientific writing:
-    title: Scientific Writing
-    assignments:
       - title: Senior Year Superconductivity Project
         link: "https://github.com/cthutchinson/portfolio/blob/master/Superconductivity_Project.pdf"
         tagline: "insert description"
