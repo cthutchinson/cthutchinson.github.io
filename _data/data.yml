@@ -41,14 +41,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Physics BSc graduate with internship experience in software development and data      science.
 education:
-    - degree: BSc in Physics
+    - degree: Physics BSc
       university: King's College London
       time: 2015 - 2019
       details: |
@@ -59,7 +54,7 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: Year Abroad studying Computer Science and Statistics
+    - degree: Computer Science and Statistics (Year Abroad)
       university: University of Michigan
       time: 2017 - 2018
       details: |
