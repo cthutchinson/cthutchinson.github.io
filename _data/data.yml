@@ -79,8 +79,9 @@ experiences:
     - role: Management Consultant Intern
       time: October 2015 - January 2016 (4 months)
       company: First Step Consulting, London
+      link: http://github.com/barryclark/jekyll-now/
       details: |
-        Selected through a competitive application/interview process to work as an investment analyst for a $5 MM micro venture capital fund in Silicon Valley [Jekyll Now](https://www.firststepconsulting.co.uk/client-results/a-venture-capital-fund-gains-a-foothold-in-silicon-valley)
+        Selected through a competitive application/interview process to work as an investment analyst for a $5 MM micro venture capital fund in Silicon Valley [(Project Link)](https://www.firststepconsulting.co.uk/client-results/a-venture-capital-fund-gains-a-foothold-in-silicon-valley)
           - Bullet point
 projects:
     title: Projects
