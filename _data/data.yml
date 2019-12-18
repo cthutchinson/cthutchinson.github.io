@@ -88,6 +88,9 @@ projects:
       - title: Employee Retention Analysis
         link: "https://github.com/cthutchinson/portfolio/blob/master/Employee%20Retention%20Analysis/employee_retention_presentation_callum_hutchinson.pdf"
         tagline: "A responsive website template designed to help web developers/designers market their services."
+      
+      - title: Tweet Generator
+        tagline: "EECS project at UMich"
 
       - title: evofinder
         link: "https://github.com/cthutchinson/evofinder"
