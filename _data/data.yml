@@ -88,9 +88,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      Below is a selection of projects which demonstrate my skills in:
-        - Python
-        - R
+      Below is a selection of projects which demonstrate my skills in":" Python,R
         - Data Analysis
         - Report Writing
         - Scientific Writing
