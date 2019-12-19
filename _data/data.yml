@@ -104,7 +104,7 @@ projects:
 
       - title: evofinder
         link: "https://github.com/cthutchinson/evofinder"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "A project developed for the evolutionary computation class at UofM, evofinder is an input fuzzer for python programs that attempts to automatically generate inputs to cause the program to reach a pre-specified target location in the control flow graph using an evolutionary algorithm."
 
       - title: Molecular Dynamics Programming and Report
         link: "https://github.com/cthutchinson/Molecular-Dynamics-Lennard-Jones-cluster-collision-/blob/master/Hutchinson_Report.pdf"
