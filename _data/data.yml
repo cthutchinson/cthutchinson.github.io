@@ -88,9 +88,16 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Below is a selection of projects which demonstrate my skills in:
+        - Python
+        - R
+        - Data Analysis
+        - Report Writing
+        - Scientific Writing
+        - Research
+
+      Please click the project names to be redirected.
+
     assignments:
       - title: CRISPR Data Science Project
         link: "https://github.com/cthutchinson/portfolio/blob/master/CRISPR%20Guide%20Analysis/CRISPR_analysis.ipynb"
