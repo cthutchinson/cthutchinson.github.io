@@ -111,8 +111,8 @@ projects:
         tagline: "This molecular dynamics simulation and accompanying report was completed as the final project of a computational lab class during my physics degree. I wrote the code from scratch, using the velocity verlet algorithm to numerically integrate Newtons equations of motion."
 
       - title: Reddit Data Scraping
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        link: "https://github.com/cthutchinson/portfolio/tree/master/Reddit%20Scraping"
+        tagline: "The Reddit algorithm was of interest to us in our research project concerning feedback loops in ranking systems (see publications below). To analyse the characterists of posts which reached the front pages of Reddit I wrote a Python script using PRAW, urllib2 and BeautifulSoup to scrape data from the first 3 pages of the top 5 subreddits at that time. The collection of this data was important in designing the simulation of posting activity and investigating divergence between 'objective' quality and rank based quality."
 
       - title: Senior Year Superconductivity Project
         link: "https://github.com/cthutchinson/portfolio/blob/master/Superconductivity_Project.pdf"
