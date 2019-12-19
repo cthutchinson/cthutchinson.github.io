@@ -99,8 +99,8 @@ projects:
         link: "https://github.com/cthutchinson/portfolio/blob/master/Employee%20Retention%20Analysis/employee_retention_presentation_callum_hutchinson.pdf"
         tagline: "Completed as part of another internship application, this project required analysis of a dataset to ascertain the characteristics of employees who were leaving a company and development of a model to predict if an employee would leave or not. I succeeded in doing so by exploring and graphing the data in R (tidyverse) and training a decision tree on the data. The data analysis and resultant strategic recommendations are synthesized into the presentation linked above."
       
-      - title: Tweet Generator
-        tagline: "EECS project at UMich"
+      - title: NLP Tweet Generator
+        tagline: "Awarded best project at the EECS183 (UofM) showcase by representatives from J.P. Morgan, this Python application produces tweets which mimic the style of a specified user. Through the GUI (built using tkinter) an attendee at the showcase could enter a desired twitter handle, at which point the application would use the Reddit API to scrape the profile picture and tweet history of said user. The corpus of tweets would then be tokenized and a Markov model trained on the data to determine the probability of transitioning between words. A sentence could then be probabilistically generated, often with humorous results, and a mock tweet of the user returned via the GUI."
 
       - title: evofinder
         link: "https://github.com/cthutchinson/evofinder"
