@@ -88,18 +88,12 @@ experiences:
 projects:
     title: Projects
     intro: >
-      Below is a selection of projects which demonstrate my skills in":" Python,R
-        - Data Analysis
-        - Report Writing
-        - Scientific Writing
-        - Research
-
-      Please click the project names to be redirected.
+      Below is a selection of projects which demonstrate my skills in: Python, R, Data Analysis, Report Writing, Scientific Writing and Research. Please click the project names to be redirected.
 
     assignments:
       - title: CRISPR Data Science Project
         link: "https://github.com/cthutchinson/portfolio/blob/master/CRISPR%20Guide%20Analysis/CRISPR_analysis.ipynb"
-        tagline: "Describe here."
+        tagline: "Completed as part of my internship application for Desktop Genetics, this project is a good example of my data science and report writing skills. In this project I was tasked with identifying the characteristics of biological agents which resulted in the depletion of cells in the experiment. To complete the task I spent considerable time studying academic literature, annotated the dataset with various bioinformatics tools, performed dimensionality reduction using t-SNE and then clustered the data using DBSCAN."
 
       - title: Employee Retention Analysis
         link: "https://github.com/cthutchinson/portfolio/blob/master/Employee%20Retention%20Analysis/employee_retention_presentation_callum_hutchinson.pdf"
