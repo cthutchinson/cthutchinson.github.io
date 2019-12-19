@@ -97,7 +97,7 @@ projects:
 
       - title: Employee Retention Analysis
         link: "https://github.com/cthutchinson/portfolio/blob/master/Employee%20Retention%20Analysis/employee_retention_presentation_callum_hutchinson.pdf"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Completed as part of another internship application, this project required analysis of a dataset to ascertain the characteristics of employees who were leaving a company and development of a model to predict if an employee would leave or not. I succeeded in doing so by exploring and graphing the data in R (tidyverse) and training a decision tree on the data. The data analysis and resultant strategic recommendations are synthesized into the presentation linked above."
       
       - title: Tweet Generator
         tagline: "EECS project at UMich"
