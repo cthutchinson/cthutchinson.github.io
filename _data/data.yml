@@ -12,7 +12,7 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: callumhutchinson@gmail.com
+    email: ctyhutch@gmail.com
     phone: 202-999-7877
     website: #do not add http://
     linkedin: cthutchinson
@@ -61,14 +61,14 @@ experiences:
       details: |
         Worked as an intern software developer-cum-data scientist for Desktop Genetics, a SaaS biotechnology startup [(Company blog post)](https://www.deskgen.com/landing/#/blogs/reflection-of-a-data-science-intern)
 
-        **Project #1**
+        **Genomic data mining web app**
           - Managed and developed a data mining web app from concept to deployment. Took sole responsibility of all aspects of the project from budget and project management to design, build and deployment
           - Held multiple meetings with the target audience to determine their unmet needs and craft the user experience to optimize their workflow 
           - Successfully created and pitched a business case to the Global Head of Discovery and CTO for the purchase of data 
           - Organized and held meetings with multiple data providers to discuss technical, licensing and pricing matters
           - Created a single page application for mining genomic data using Python, Flask and Javascript/Jquery, then dockerized and deployed to Microsoft Azure cloud servers within deadline and budget
 
-        **Project #2**
+        **Variant calling pipeline benchmarking**
           - Created an analysis pipeline to conduct experiments and simulations in order to benchmark the performance of the companies existing toolkit against a proposed improvement 
           - Conducted extensive research of academic literature to calibrate the approach and results
           - Ran comprehensive simulations on high powered VMs and verified our experimental hypothesis, culminating in a detailed report which entailed important strategic business recommendations with significant performance gains and cost savings
