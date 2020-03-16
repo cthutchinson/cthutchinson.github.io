@@ -65,12 +65,12 @@ experiences:
         Worked as an intern software developer/data scientist for Desktop Genetics, a SaaS biotechnology startup [(Company blog post)](https://www.deskgen.com/landing/#/blogs/reflection-of-a-data-science-intern)
 
         **Genomic Data Mining Web App**
-          - Managed and developed a data mining web app from concept to deployment. Took sole responsibility of all aspects of the project from budget and project management to design, build and deployment
+          - Developed a single page application for mining genomic data using Python, Flask and Javascript/Jquery, then dockerized and deployed to Microsoft Azure cloud servers within deadline and budget      
+          - Took sole responsibility of all aspects of the project from budget and project management to design, build and deployment
           - Held multiple meetings with the target audience to determine their unmet needs and craft the user experience to optimize their workflow 
           - Successfully created and pitched a business case to the Global Head of Discovery and CTO for the purchase of data 
           - Organized and held meetings with multiple data providers to discuss technical, licensing and pricing matters
-          - Created a single page application for mining genomic data using Python, Flask and Javascript/Jquery, then dockerized and deployed to Microsoft Azure cloud servers within deadline and budget
-
+        
         **Variant Calling Pipeline Benchmarking**
           - Created an analysis pipeline to conduct experiments and simulations in order to benchmark the performance of the company's existing toolkit against a proposed improvement 
           - Conducted extensive research of academic literature to calibrate the approach and results
