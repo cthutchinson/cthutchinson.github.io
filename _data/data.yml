@@ -109,7 +109,7 @@ projects:
         tagline: "A project developed for the evolutionary computation class at UofM, evofinder is an input fuzzer for python programs that attempts to automatically generate inputs to cause the program to reach a pre-specified target location in the control flow graph using an evolutionary algorithm."
 
       - title: Molecular Dynamics
-        link: "https://github.com/cthutchinson/Molecular-Dynamics-Lennard-Jones-cluster-collision-/blob/master/Hutchinson_Report.pdf"
+        link: "https://github.com/cthutchinson/Molecular-Dynamics-Lennard-Jones-cluster-collision-/blob/master/LJCollision.py"
         tagline: "This molecular dynamics simulation and accompanying report was completed as the final project of a computational lab class during my physics degree. I wrote the code from scratch, using the velocity verlet algorithm to numerically integrate Newtons equations of motion."
 
       - title: Reddit Data Scraping
