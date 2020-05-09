@@ -2,6 +2,7 @@
 
 # Site Settings
 title: Callum Hutchinson's Resume
+logo: '/assets/images/logo.png'
 url: 'https://cthutchinson.github.io'
 baseurl: '/' #change it according to your repository name
 description: Callum Hutchinson's Resume
